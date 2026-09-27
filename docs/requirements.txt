@@ -1,4 +1,4 @@
-Pillow==12.1.1
+Pillow==12.3.0
 PyYAML==6.0.3
 Sphinx==9.1.0
 conda-sphinx-theme==0.4.0
